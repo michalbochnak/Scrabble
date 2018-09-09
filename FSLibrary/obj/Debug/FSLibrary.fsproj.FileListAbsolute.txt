@@ -1,0 +1,9 @@
+C:\Users\Michal\Documents\Visual Studio 2017 Projects\Projects\CS 341 Project 5 Scrabble\Scrabble\FSLibrary\bin\Debug\FSLibrary.XML
+C:\Users\Michal\Documents\Visual Studio 2017 Projects\Projects\CS 341 Project 5 Scrabble\Scrabble\FSLibrary\bin\Debug\FSLibrary.dll
+C:\Users\Michal\Documents\Visual Studio 2017 Projects\Projects\CS 341 Project 5 Scrabble\Scrabble\FSLibrary\bin\Debug\FSLibrary.pdb
+C:\Users\Michal\Documents\Visual Studio 2017 Projects\Projects\CS 341 Project 5 Scrabble\Scrabble\FSLibrary\bin\Debug\FSharp.Core.dll
+C:\Users\Michal\Documents\Visual Studio 2017 Projects\Projects\CS 341 Project 5 Scrabble\Scrabble\FSLibrary\bin\Debug\System.ValueTuple.dll
+C:\Users\Michal\Documents\Visual Studio 2017 Projects\Projects\CS 341 Project 5 Scrabble\Scrabble\FSLibrary\bin\Debug\FSharp.Core.xml
+C:\Users\Michal\Documents\Visual Studio 2017 Projects\Projects\CS 341 Project 5 Scrabble\Scrabble\FSLibrary\obj\Debug\FSLibrary.fsproj.CoreCompileInputs.cache
+C:\Users\Michal\Documents\Visual Studio 2017 Projects\Projects\CS 341 Project 5 Scrabble\Scrabble\FSLibrary\obj\Debug\FSLibrary.dll
+C:\Users\Michal\Documents\Visual Studio 2017 Projects\Projects\CS 341 Project 5 Scrabble\Scrabble\FSLibrary\obj\Debug\FSLibrary.pdb

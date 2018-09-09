@@ -1,0 +1,14 @@
+C:\Users\Michal\Documents\Visual Studio 2017 Projects\Projects\CS 341 Project 5 Scrabble\Scrabble\Scrabble\bin\Debug\Scrabble.exe.config
+C:\Users\Michal\Documents\Visual Studio 2017 Projects\Projects\CS 341 Project 5 Scrabble\Scrabble\Scrabble\bin\Debug\Scrabble.exe
+C:\Users\Michal\Documents\Visual Studio 2017 Projects\Projects\CS 341 Project 5 Scrabble\Scrabble\Scrabble\bin\Debug\Scrabble.pdb
+C:\Users\Michal\Documents\Visual Studio 2017 Projects\Projects\CS 341 Project 5 Scrabble\Scrabble\Scrabble\bin\Debug\FSharp.Core.dll
+C:\Users\Michal\Documents\Visual Studio 2017 Projects\Projects\CS 341 Project 5 Scrabble\Scrabble\Scrabble\bin\Debug\FSLibrary.dll
+C:\Users\Michal\Documents\Visual Studio 2017 Projects\Projects\CS 341 Project 5 Scrabble\Scrabble\Scrabble\bin\Debug\FSLibrary.pdb
+C:\Users\Michal\Documents\Visual Studio 2017 Projects\Projects\CS 341 Project 5 Scrabble\Scrabble\Scrabble\bin\Debug\FSLibrary.xml
+C:\Users\Michal\Documents\Visual Studio 2017 Projects\Projects\CS 341 Project 5 Scrabble\Scrabble\Scrabble\obj\Debug\Scrabble.csprojResolveAssemblyReference.cache
+C:\Users\Michal\Documents\Visual Studio 2017 Projects\Projects\CS 341 Project 5 Scrabble\Scrabble\Scrabble\obj\Debug\Scrabble.Form1.resources
+C:\Users\Michal\Documents\Visual Studio 2017 Projects\Projects\CS 341 Project 5 Scrabble\Scrabble\Scrabble\obj\Debug\Scrabble.Properties.Resources.resources
+C:\Users\Michal\Documents\Visual Studio 2017 Projects\Projects\CS 341 Project 5 Scrabble\Scrabble\Scrabble\obj\Debug\Scrabble.csproj.GenerateResource.Cache
+C:\Users\Michal\Documents\Visual Studio 2017 Projects\Projects\CS 341 Project 5 Scrabble\Scrabble\Scrabble\obj\Debug\Scrabble.csproj.CoreCompileInputs.cache
+C:\Users\Michal\Documents\Visual Studio 2017 Projects\Projects\CS 341 Project 5 Scrabble\Scrabble\Scrabble\obj\Debug\Scrabble.exe
+C:\Users\Michal\Documents\Visual Studio 2017 Projects\Projects\CS 341 Project 5 Scrabble\Scrabble\Scrabble\obj\Debug\Scrabble.pdb
